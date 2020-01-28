@@ -1,0 +1,2 @@
+# Analysis-of-Web-Application-Scanners
+This project consists of a comparison between ten separate web-application scanners which are utilized in an automated fashion to target three separate web-applications which exist as part of the OWASP Broken Web Application project (Druin, 2011). This included scans against Mutillidae II¸ Bricks and ZAPWAVE. These applications are intentionally vulnerable to various types of attacks and are utilized in order to understand the efficiency and performance differences among the various scanners utilized throughout this work.
